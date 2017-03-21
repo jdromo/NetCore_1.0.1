@@ -1,0 +1,8 @@
+/opt/test2/bin/Debug/netcoreapp1.1/test2.deps.json
+/opt/test2/bin/Debug/netcoreapp1.1/test2.runtimeconfig.json
+/opt/test2/bin/Debug/netcoreapp1.1/test2.runtimeconfig.dev.json
+/opt/test2/bin/Debug/netcoreapp1.1/test2.dll
+/opt/test2/bin/Debug/netcoreapp1.1/test2.pdb
+/opt/test2/obj/Debug/netcoreapp1.1/test2.AssemblyInfo.cs
+/opt/test2/obj/Debug/netcoreapp1.1/test2.dll
+/opt/test2/obj/Debug/netcoreapp1.1/test2.pdb
